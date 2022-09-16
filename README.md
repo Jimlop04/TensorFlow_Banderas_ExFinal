@@ -1,4 +1,9 @@
-# Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
+# Exaen finan - TensorFlow - Banderas
+###1.- Implemente un Modelo Tensor Flow Lite que reconozca las banderas de países, usando el dataset adjunto a la tarea. El modelo deberá determinar el nombre del país en formato del "ISO 3166-1-alpha-2 character code" , el cual representa el parámetro necesario para la siguiente parte.
+
+2.- Unavez identificado el país, mostrar la información, usando los Servicios Web: http://www.geognos.com/api/en/countries/info/{alpha2code}.json y http://www.geognos.com/api/en/countries/flag/{alpha2code}.png
+
+Con los datos GeoReferenciales de la  ubicación del país y la capital, ubicar en el Map el país y marcar con un rectángulo en la parte inferior mostrar los datos mas importantes, como se muestra en la imagen de abajo
 
 This folder contains the code for the TensorFlow Lite codelab:
 
