@@ -1,9 +1,18 @@
-# Exaen finan - TensorFlow - Banderas
-### 1.- Implemente un Modelo Tensor Flow Lite que reconozca las banderas de países, usando el dataset adjunto a la tarea. El modelo deberá determinar el nombre del país en formato del "ISO 3166-1-alpha-2 character code" , el cual representa el parámetro necesario para la siguiente parte.
+# Examen final - TensorFlow - Banderas
+1.- Implemente un Modelo Tensor Flow Lite que reconozca las banderas de países, usando el dataset adjunto a la tarea. El modelo deberá determinar el nombre del país en formato del "ISO 3166-1-alpha-2 character code" , el cual representa el parámetro necesario para la siguiente parte.
 
 2.- Unavez identificado el país, mostrar la información, usando los Servicios Web: http://www.geognos.com/api/en/countries/info/{alpha2code}.json y http://www.geognos.com/api/en/countries/flag/{alpha2code}.png
 
 Con los datos GeoReferenciales de la  ubicación del país y la capital, ubicar en el Map el país y marcar con un rectángulo en la parte inferior mostrar los datos mas importantes, como se muestra en la imagen de abajo
+
+# Captura de Bandera de Argentina
+![WhatsApp Image 2022-09-16 at 10 33 49 AM (1)](https://user-images.githubusercontent.com/87384300/190677197-f248784b-4741-4b82-bb23-49cd389d8cde.jpeg)
+![WhatsApp Image 2022-09-16 at 10 33 49 AM](https://user-images.githubusercontent.com/87384300/190677219-6d4bf761-cbe8-4907-8a4d-d5add11867fe.jpeg)
+
+# Captura de Bandera de Japon
+![WhatsApp Image 2022-09-16 at 10 33 50 AM (1)](https://user-images.githubusercontent.com/87384300/190677264-7ad8f200-3c52-477e-8816-a3e5d89b7bcd.jpeg)
+![WhatsApp Image 2022-09-16 at 10 33 50 AM](https://user-images.githubusercontent.com/87384300/190677270-7736c2e0-f3d9-4600-a4e8-7675f1bf994e.jpeg)
+
 
 This folder contains the code for the TensorFlow Lite codelab:
 
